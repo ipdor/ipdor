@@ -1,9 +1,4 @@
-## Hi there, I'm valueism 👋 
-
-<!--
-**valueism/valueism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-*Here are some ideas to get you started:*   -->
+## Hi there, I'm Nate 👋 
 
 - 🔭 I’m currently working for myself
 - 🌱 I’m currently learning IELTS
@@ -16,4 +11,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-[![Valueism's github stats](https://github-readme-stats.vercel.app/api?username=valueism)](https://github.com/anuraghazra/github-readme-stats)
+[![Valueism's github stats](https://github-readme-stats.vercel.app/api?username=valueism)](Https://valueism.github.io)
