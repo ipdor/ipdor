@@ -11,4 +11,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-[![Valueism's github stats](https://github-readme-stats.vercel.app/api?username=valueism)](Https://valueism.github.io)
+[![Valueism's github stats](https://github-readme-stats.vercel.app/api?username=valueism)](Https://ipdor.github.io)
